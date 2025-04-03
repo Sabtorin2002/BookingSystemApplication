@@ -20,7 +20,8 @@ A full-stack web application built using **Java (Spring Boot)** and **React** th
 - Spring Security
 - JPA / Hibernate
 - PostgreSQL (or H2 for development)
-
+- Maven
+  
 ### Frontend
 - React
 - React Router
