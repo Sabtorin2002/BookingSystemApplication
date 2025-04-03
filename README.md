@@ -7,7 +7,6 @@ A full-stack web application built using **Java (Spring Boot)** and **React** th
 - ✅ User registration and authentication
 - 📅 Create, edit, and cancel bookings
 - 🔄 Real-time availability updates
-- 📬 Email and in-app notifications
 - 💻 Responsive and intuitive frontend built with React
 - 🔐 Secure backend using Spring Security
 - 🔧 RESTful API integration between frontend and backend
